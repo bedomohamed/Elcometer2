@@ -1,2 +1,2 @@
-# rainbow-song
+# Elcometer
 song about rainbow
